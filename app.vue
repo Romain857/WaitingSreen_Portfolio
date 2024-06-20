@@ -34,7 +34,8 @@ export default {
       bubbles: [
         { text: 'Hello 👋' },
         { text: 'My name is Romain' },
-        { text: "I'm a fullstack developer currently looking for a new experience for 2025." },
+        { text: "I'm a fullstack developer currently looking for a new experience for 2025" },
+        { text: "My portfolio is currently in development" },
         { 
           text: 'In the meantime, you can discover my profile and contact me on various platforms: ' +
                 '<a href="https://github.com/Romain857" target="_blank" class="hover:text-gray-800 text-blue-500"></i>GitHub</a> | ' +
